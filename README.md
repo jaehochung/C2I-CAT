@@ -1,6 +1,6 @@
 # C2I-CAT (IEEE Access)
 This repository is the official PyTorch implementation of "C2I-CAT: Class-to-Image Cross Attention Transformer for Out-of-Distribution Detection" [[Paper](https://ieeexplore.ieee.org/document/10506497)]. The codes are based on [[OODformer](https://github.com/rajatkoner08/oodformer)], [[Energy OOD](https://github.com/wetliu/energy_ood)], [[ViM](https://github.com/haoqiwang/vim)], [[kNN OOD](https://github.com/deeplearning-wisc/knn-ood)], [[Outlier Exposure](https://github.com/hendrycks/outlier-exposure)], and [[MOOD](https://github.com/deeplearning-wisc/MOOD)].
-You can acquire outlier datasets from these github links. Outlier datasets should be placed in '/dataset/ood_data/' directory.
+You can acquire outlier datasets from these github links. Outlier datasets should be placed in 'dataset/ood_data/' directory.
 
 ## Pre-trained ViT checkpoint
 We use [[pre-trained ViT](https://github.com/rajatkoner08/oodformer/tree/master/vit)] provided by OODformer. See pytorch model weights in the "Available Models" section of the link. <br />
