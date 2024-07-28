@@ -3,7 +3,7 @@ This repository is the official PyTorch implementation of "C2I-CAT: Class-to-Ima
 You can acquire outlier datasets from these github links. Outlier datasets should be placed in 'dataset/ood_data/' directory.
 
 ## Pre-trained ViT checkpoint
-We use [[pre-trained ViT](https://github.com/rajatkoner08/oodformer/tree/master/vit)] provided by OODformer. See pytorch model weights in the "Available Models" section of the link. <br />
+We use [[pre-trained ViT](https://github.com/rajatkoner08/oodformer/tree/master/vit)] provided by OODformer. See 'pytorch model weights' in the "Available Models" section of the link. <br />
 After downloading the pre-trained weights, place the files in 'pretrained_vit_ckpt' directory to use them.
 
 ## Requirements
